@@ -1,0 +1,7 @@
+C:\Users\isaac\source\repos\GameMenu\GameMenu\obj\Debug\GameMenu.csprojAssemblyReference.cache
+C:\Users\isaac\source\repos\GameMenu\GameMenu\obj\Debug\GameMenu.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\GameMenu\GameMenu\bin\Debug\GameMenu.exe.config
+C:\Users\isaac\source\repos\GameMenu\GameMenu\bin\Debug\GameMenu.exe
+C:\Users\isaac\source\repos\GameMenu\GameMenu\bin\Debug\GameMenu.pdb
+C:\Users\isaac\source\repos\GameMenu\GameMenu\obj\Debug\GameMenu.exe
+C:\Users\isaac\source\repos\GameMenu\GameMenu\obj\Debug\GameMenu.pdb
